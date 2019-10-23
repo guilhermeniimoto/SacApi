@@ -1,0 +1,32 @@
+C:\Users\Guilherme Gomes\Documents\FIAP - MBA\Microservicos\Host\SacHost\SelfHostApi\obj\Debug\SacHostApi.csprojAssemblyReference.cache
+C:\Users\Guilherme Gomes\Documents\FIAP - MBA\Microservicos\Host\SacHost\SelfHostApi\obj\Debug\SelfHostApi.exe
+C:\Users\Guilherme Gomes\Documents\FIAP - MBA\Microservicos\Host\SacHost\SelfHostApi\obj\Debug\SelfHostApi.pdb
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\SelfHostApi.exe.config
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\SelfHostApi.exe
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\SelfHostApi.pdb
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\Microsoft.Owin.dll
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\MySql.Data.dll
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\Owin.dll
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\System.Web.Http.dll
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\Google.Protobuf.dll
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\Renci.SshNet.dll
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\Microsoft.Owin.xml
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\MySql.Data.xml
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\System.Web.Http.xml
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\obj\Debug\SacHostApi.csprojAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\obj\Debug\SacHostApi.csproj.CopyComplete
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\obj\Debug\SelfHostApi.exe
+C:\Users\Guilherme\Desktop\Microservicos\Host\SacHost\SelfHostApi\obj\Debug\SelfHostApi.pdb
