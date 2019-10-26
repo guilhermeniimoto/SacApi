@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,12 +11,13 @@ namespace SacHostApi.DAL
 {
     public class SacDal
     {
-        private string connectionString = "server=mysql333745.mysql.database.azure.com;User Id = fiap@mysql333745;database=fiap; password=senha@123";
+        //private string connectionString = "server=localhost;User Id = root;database=sac; password=150290";
+        private string connectionString = ConfigurationManager.ConnectionStrings["connString"].ConnectionString;
 
         public List<Sac> retornaSac()
         {
             MySqlConnection conn = new MySqlConnection(connectionString);
-            MySqlCommand comando = new MySqlCommand("SELECT * FROM `fiap`.`sac`", conn);
+            MySqlCommand comando = new MySqlCommand("SELECT * FROM `sac`.`sac`", conn);
             List<Sac> lista = new List<Sac>();
 
             try
