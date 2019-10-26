@@ -60,7 +60,7 @@ namespace SacHostApi.DAL
             bool retorno = false;
             MySqlConnection conn = new MySqlConnection(connectionString);            
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine(" INSERT INTO `fiap`.`sac` ");
+            sb.AppendLine(" INSERT INTO `sac`.`sac` ");
             sb.AppendLine("            (`id`, ");            
             sb.AppendLine("            `idUsuario`, ");
             sb.AppendLine("            `titulo`, ");
@@ -104,7 +104,7 @@ namespace SacHostApi.DAL
             MySqlConnection conn = new MySqlConnection(connectionString);            
             StringBuilder sb = new StringBuilder();
 
-            sb.Append(" UPDATE `fiap`.`sac` ");
+            sb.Append(" UPDATE `sac`.`sac` ");
             sb.Append(" SET ");
             sb.AppendFormat(" `id` = {0}, ", objeto.Id);
             sb.AppendFormat(" `idUsuario` = {0}, ", objeto.IdUsuario);
